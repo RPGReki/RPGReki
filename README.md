@@ -64,8 +64,8 @@ Badges are powered by [shields.io](https://shields.io)
 [12.1]: https://github.com/0xReki/0xReki/raw/main/logos/patreon.png
 [20]: https://twitter.com/0xReki
 [20.1]: https://github.com/0xReki/0xReki/raw/main/logos/twitter.png
-[20]: https://https://gamingjp.org/@0xReki
-[20.1]: https://github.com/0xReki/0xReki/raw/main/logos/mastodon.png
+[21]: https://https://gamingjp.org/@0xReki
+[21.1]: https://github.com/0xReki/0xReki/raw/main/logos/mastodon.png
 [23]: https://www.reddit.com/user/0xreki
 [23.1]: https://github.com/0xReki/0xReki/raw/main/logos/reddit.png
 [30]: https://www.scribblehub.com/profile/19792/0xreki/
