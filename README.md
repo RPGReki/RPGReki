@@ -9,6 +9,7 @@ While I do like action games, but I kinda suck at those.
 
 ## Me on Other Platforms
 
+[![][31.1]][31]
 [![][00.1]][00]
 [![][02.1]][02]
 [![][10.1]][10]
@@ -16,9 +17,7 @@ While I do like action games, but I kinda suck at those.
 [![][12.1]][12]
 [![][20.1]][20]
 [![][21.1]][21]
-[![][22.1]][22]
 [![][30.1]][30]
-[![][31.1]][31]
 
 ## Blog and Creative Writing ✍
 
@@ -52,7 +51,7 @@ Badges are powered by [shields.io](https://shields.io)
 
 <!-- links -->
 [00]: https://0xreki.de
-[00.1]: https://github.com/0xReki/0xReki/raw/main/logos/kitten.png
+[00.1]: https://github.com/0xReki/0xReki/raw/main/logos/bunny.svg
 [01]: https://github.com/0xReki
 [01.1]: https://github.com/0xReki/0xReki/raw/main/logos/github.png
 [02]: https://gitlab.com/0xReki
@@ -65,10 +64,8 @@ Badges are powered by [shields.io](https://shields.io)
 [12.1]: https://github.com/0xReki/0xReki/raw/main/logos/patreon.png
 [20]: https://twitter.com/0xReki
 [20.1]: https://github.com/0xReki/0xReki/raw/main/logos/twitter.png
-[21]: https://fb.com/0xReki
-[21.1]: https://github.com/0xReki/0xReki/raw/main/logos/facebook.png
-[22]: https://instagram.com/oxreki
-[22.1]: https://github.com/0xReki/0xReki/raw/main/logos/instagram.png
+[20]: https://https://gamingjp.org/@0xReki
+[20.1]: https://github.com/0xReki/0xReki/raw/main/logos/mastodon.png
 [23]: https://www.reddit.com/user/0xreki
 [23.1]: https://github.com/0xReki/0xReki/raw/main/logos/reddit.png
 [30]: https://www.scribblehub.com/profile/19792/0xreki/
