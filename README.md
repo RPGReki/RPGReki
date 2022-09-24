@@ -10,13 +10,13 @@ While I do like action games, but I kinda suck at those.
 ## Me on Other Platforms
 
 [![][31.1]][31]
-[![][00.1]{:width="64px"}][00]
+[<img src="https://github.com/0xReki/0xReki/raw/main/logos/bunny.svg" width="64px"}>][00]
 [![][02.1]][02]
 [![][10.1]][10]
 [![][11.1]][11]
 [![][12.1]][12]
 [![][20.1]][20]
-[![][21.1]{:width="64px"}][21]
+[<img src="https://github.com/0xReki/0xReki/raw/main/logos/mastodon.svg" width="64px"}>][21]
 [![][30.1]][30]
 
 ## Blog and Creative Writing ✍
