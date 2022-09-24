@@ -50,7 +50,7 @@ Badges are powered by [shields.io](https://shields.io)
 </div>
 
 <!-- links -->
-[00]: https://0xreki.de
+[00]: https://reki.wtf
 [00.1]: https://github.com/0xReki/0xReki/raw/main/logos/bunny.svg
 [01]: https://github.com/0xReki
 [01.1]: https://github.com/0xReki/0xReki/raw/main/logos/github.png
