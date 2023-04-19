@@ -35,7 +35,7 @@ It all began with a game called “Shanghai: Dynasty” for Windows 95. The ga
 ## Blog and Creative Writing ✍
 
 These days I do more writing than coding, coding my stuff is just a means to make tools what I them to do.
-You can find my articles and stories at [0xreki.de][00].
+You can find my articles and stories at [reki.wtf][00].
 
 ## Technologies and Tools 🔧
 
