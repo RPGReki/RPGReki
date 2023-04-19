@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm Thai “0xReki” Chung, a jack of all trades from Germany.
+I'm Thai “RPGReki” Chung, a jack of all trades from Germany.
 I live near Cologne and currently work at IT.NRW.
 My focus is in Linux, but that doesn't mean I dislike using other OSes.
 I'm a typical IT guy with interests in vintage game consoles, vintage audio hardware, and Riichi Mahjong.
