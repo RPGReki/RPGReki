@@ -1,24 +1,43 @@
 # Hello! 👋
 
-I'm RPGReki, call me Reki. I'm a Bunny Boy who grew up in Haitei City, usually desperate for good ramen. My interests include fortune-telling and Mahjong. If I'm not looking for trouble in Final Fantasy XIV, I play all other games, preferably JRPGs, though I do play other types of games at times.
+I'm RPGReki, call me Reki.
+I'm a Bunny Boy who grew up in Haitei City, usually desperate for good ramen.
+My interests include fortune-telling and Mahjong.
+If I'm not looking for trouble in Final Fantasy XIV, I play all other games, preferably JRPGs, though I do play other types of games at times.
 
 ## Haitei City
 
 You've never heard of Haitei City? Here's a story why it's called Haitei City:
 
-> Once on a clear night with a full moon, after a merry night of drinking, some council members left the pub “the Golden Lion” to go home. They happen to notice the reflection of the moon in a filled large tube that was set up in case of a fire. One of them got the genius idea to scoop out the moon to illuminate the city, especially on nights without moonlight. The others agreed with the idea and called for the city fisher. They and their servants arrived and began scooping the reflection of the moon from the bottom of the water, an act also known as Haitei Raoyue¹… 
+> Once on a clear night with a full moon, after a merry night of drinking, some council members left the pub “the Golden Lion” to go home.
+> They happen to notice the reflection of the moon in a filled large tube that was set up in case of a fire.
+> One of them got the genius idea to scoop out the moon to illuminate the city, especially on nights without moonlight.
+> The others agreed with the idea and called for the city fisher.
+> They and their servants arrived and began scooping the reflection of the moon from the bottom of the water, an act also known as Haitei Raoyue¹… 
 
-While they were ultimately unsuccessful, the moon rewarded their perseverance and graced the inhabitants of Haitei City with its blessing. Even in these modern times, the moon is revered. Haitei City was too small, peaceful, boring and backwards, so I ended up leaving it. But the blessings of the moon will always be with me. 
+While they were ultimately unsuccessful, the moon rewarded their perseverance and graced the inhabitants of Haitei City with its blessing.
+Even in these modern times, the moon is revered.
+Haitei City was too small, peaceful, boring and backwards, so I ended up leaving it.
+But the blessings of the moon will always be with me. 
 
 ## Fortune Telling
 
-Before smartphones, I had a lot of time on hand and spent a lot of time in the library. I stumbled upon a book about reading tarot cards. It was an interesting read, the cards tell very vague hints, and it's up to people to interpret them. Having the blessing of the moon helps with reading. Ever since, I read tarot for fun, please do not bet your pants on my readings. For readings, I use the Animated Tarot by the Animated Deck of Many Kickstarter. 
+Before smartphones, I had a lot of time on hand and spent a lot of time in the library.
+I stumbled upon a book about reading tarot cards.
+It was an interesting read, the cards tell very vague hints, and it's up to people to interpret them.
+Having the blessing of the moon helps with reading.
+Ever since, I read tarot for fun, please do not bet your pants on my readings.
+For readings, I use the Animated Tarot by the Animated Deck of Many Kickstarter. 
 
 ## Mahjong
 
-It all began with a game called “Shanghai: Dynasty” for Windows 95. The game only featured Chinese Classical Mahjong and Western/British Mahjong. There's a patch that adds Riichi Mahjong, but who downloaded internet patches in 1997?! In 2009, my first contact with Riichi Mahjong was the Anime Saki. Since then, I played online from time to time, I also started to play in-person soon after. Sometimes, the reflection of the moon at the bottom of the water graces me with its blessings: winning on the Last Tile Draw.
+It all began with a game called “Shanghai: Dynasty” for Windows 95.
+The game only featured Chinese Classical Mahjong and Western/British Mahjong.
+There's a patch that adds Riichi Mahjong, but who downloaded internet patches in 1997?!
+In 2009, my first contact with Riichi Mahjong was the Anime Saki.
+Since then, I played online from time to time, I also started to play in-person soon after.
+Sometimes, the reflection of the moon at the bottom of the water graces me with its blessings: winning on the Last Tile Draw.
 
-[1]: Please ignore that it's actually bottom of the Sea.
 
 ## Me on Other Platforms
 
@@ -61,6 +80,8 @@ Badges are powered by [shields.io](https://shields.io)
 <img src="https://img.shields.io/badge/Text-Markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=9c2c2c" alt="Text: Markdown">
 <img src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=9c2c2c" alt="Editor: Visual Studio Code">
 </div>
+
+[1]: Please ignore that it's actually bottom of the Sea.
 
 <!-- links -->
 [00]: https://reki.wtf
